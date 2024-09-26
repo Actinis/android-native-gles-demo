@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
 //        setContentView(view)
 
 //        startActivity(Intent(this, BitmapActivity::class.java))
-        startActivity(Intent(this, MessengerActivity::class.java))
+//        startActivity(Intent(this, MessengerActivity::class.java))
 //        startActivity(Intent(this, DialogActivity::class.java))
         finish()
         return
